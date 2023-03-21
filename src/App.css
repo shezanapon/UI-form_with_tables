@@ -1,7 +1,0 @@
-.box {
-  border: none;
-  border-color: white;
-}
-* {
-  @media screen max-width: 900px;
-}
